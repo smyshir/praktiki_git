@@ -1,2 +1,3 @@
 def add(a, b): return a + b
-# Изменение в первой копии (person1)
+# Изменение из person2 (ветка dev2)
+# Изменение из person2 (ветка dev2)
