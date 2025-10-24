@@ -2,7 +2,7 @@ name: CI/CD Pipeline
 
 on:
   push:
-    branches: [ "ci_cd_demo" ]
+    branches: [ "ci_cd_demo", "development" ]
 
 jobs:
   ci:
